@@ -1,0 +1,19 @@
+#head{
+    background-color: bisque;
+    text-align: center;
+}
+
+#img-div{
+ justify-content: center;
+ text-align: center;
+
+}
+
+#image{
+    display: block;
+    max-width: 100%;
+}
+
+#tribute-info{
+    background-color: bisque;
+}
